@@ -1,1 +1,1 @@
-# VikushaTest<3
+# VikushaTest
